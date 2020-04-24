@@ -1,0 +1,7 @@
+.sticky {
+    display: flex;
+    z-index: 2 ;
+    background-color: #181137;
+
+}
+
