@@ -21,7 +21,7 @@
     "react-scripts": "3.4.1",
     "react-scroll-up-button": "^1.6.4",
     "react-visibility-sensor": "^5.1.1",
-    "swiper": "^5.3.6"
+    "swiper": "^6.5.1"
   },
   "scripts": {
     "start": "react-scripts start",
